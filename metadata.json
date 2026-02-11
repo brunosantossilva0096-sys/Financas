@@ -1,0 +1,7 @@
+{
+  "name": "SmartFinance AI",
+  "description": "A customizable personal finance assistant that adapts to your profile, providing intelligent insights, budgeting, and goal tracking using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
